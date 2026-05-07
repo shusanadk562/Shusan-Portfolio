@@ -135,7 +135,7 @@ const Home = React.forwardRef((props, ref) => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.8, duration: 0.8 }}
             >
-              I transform complex concepts into smooth, high-impact web experiences—creating modern, scalable, and fast-performing applications that deliver real value.
+              I design and develop modern web applications that transform complicated ideas into intuitive, high-performing, and impactful digital experiences.
             </motion.p>
 
             {/* buttons */}

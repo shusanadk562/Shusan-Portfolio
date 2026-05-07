@@ -50,7 +50,7 @@ export default function About() {
             </p>
 
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl md:max-w-3xl">
-              I build scalable, modern applications with a strong focus on clean architecture, delightful UX, and performance. My toolkit spans React, Node.js, TypeScript, Tailwind CSS, JavaScript, HTML and CSS for web Design and Figma, Photoshop and illustrator for UI/ UX design bringing ideas to life from concept to production  I love coding and am always eager to learn new things and take on challenges. I enjoy working on creative and innovative projects that push the limits of what's possible with technology.
+              I’m passionate about building modern, scalable applications that combine performance with intuitive design. With expertise in React, Node.js, TypeScript, Tailwind CSS, JavaScript, HTML, and CSS, I develop seamless web experiences that are both functional and visually appealing. On the design side, I use Figma, Photoshop, and Illustrator to craft engaging UI/UX Designs that bring ideas to life. I love experimenting with new technologies, solving complex problems, and working on innovative projects that challenge creativity and technical skills.
             </p>
 
             {/* Quick stats */}

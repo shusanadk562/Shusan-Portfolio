@@ -10,7 +10,7 @@ const experiences = [
     company: "IT Traning Nepal;",
     duration: "2023 - 2024",
     description:
-      "During my internship as a Web Designer, I developed practical skills and gained meaningful exposure to different areas of web design, enhancing my understanding of creating visually appealing and user-friendly websites.",
+      "Throughout my Web Designer internship, I developed essential design skills and learned about multiple elements of web design, helping me build visually engaging and easy-to-use websites.",
   },
 
   {
@@ -18,7 +18,7 @@ const experiences = [
     company: "Mindrisers",
     duration: "2024-2025",
     description:
-      "During my graphic design internship, I developed practical skills and gained meaningful exposure to different areas of visual design and creative workflows.",
+      "In my graphic design internship, I enhanced my practical abilities and acquired meaningful experience in different fields of visual communication and creative development.",
   },
   
  
